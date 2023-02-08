@@ -6,7 +6,7 @@ const Cart = () => {
   const [confirm, setConfirm] = useState<boolean>(false);
 
   // useCart custom hook returns the current context value for the CartContext.
-  // when we change the state in the custom hook the component which uses the custom hook will be re-rendered.
+  // when we change the state in the custom hook this component will be re-rendered.
   const { dispatch, REDUCER_ACTIONS, totalItems, totalPrice, cart } = useCart();
 
   const onSubmitOrder = () => {
