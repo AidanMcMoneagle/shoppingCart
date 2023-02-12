@@ -1,5 +1,5 @@
 # TypeScript Shopping Cart
-Welcome to Shopping Cart App. This front-end only app was built following a tutorial as part of <a href='https://www.youtube.com/watch?v=gieEQFIfgYc'>TypeScript Full Course for Beginners </a> by David Gray. <a href='https://www.youtube.com/watch?v=gieEQFIfgYc'>here</a> by David Gray. 
+Welcome to Shopping Cart App. This front-end only app was built following a tutorial as part of <a href='https://www.youtube.com/watch?v=gieEQFIfgYc'>TypeScript Full Course for Beginners </a> by David Gray.
 
 To view the hosted application please click <a href='https://ts-shoppingcart.web.app/'>here</a>. 
 
